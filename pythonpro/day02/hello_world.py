@@ -6,3 +6,10 @@ Copyright (c) 2022/10/31, 海牛学院版权所有.
 @author: 潘牛
 """
 print("hello world")
+
+def say():
+    print("say hello")
+
+
+if __name__ == "__main__":
+    say()
