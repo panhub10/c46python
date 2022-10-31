@@ -10,6 +10,9 @@ print("hello world")
 def say():
     print("say hello")
 
+def add(a, b):
+    return a + b
 
 if __name__ == "__main__":
     say()
+    print(add(1,2))
