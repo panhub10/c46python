@@ -13,6 +13,10 @@ def say():
 def add(a, b):
     return a + b
 
+def say2():
+    print("say hello")
+
 if __name__ == "__main__":
     say()
     print(add(1,2))
+    say2()
