@@ -16,6 +16,10 @@ def add(a, b):
 def say2():
     print("say hello")
 
+def say4():
+    print("say hello")
+
+
 if __name__ == "__main__":
     say()
     print(add(1,2))
